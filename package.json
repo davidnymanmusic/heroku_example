@@ -1,6 +1,9 @@
 {
   "name": "heroku_example",
   "version": "1.0.0",
+  "engines": {
+    "node": "8.8.0"
+  },
   "description": "",
   "main": "server.js",
   "scripts": {
